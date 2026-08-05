@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-19T13:16:29.000Z",
+  "generatedAt": "2026-08-05T19:02:07.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -1440,6 +1440,32 @@
       "runtimeDisplay": "62 ms",
       "runtimePercentile": null,
       "memoryDisplay": "107.6 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "zigzag-conversion": {
+      "questionId": "6",
+      "title": "Zigzag Conversion",
+      "titleSlug": "zigzag-conversion",
+      "difficulty": "Medium",
+      "topics": [
+        "String"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0006-zigzag-conversion",
+      "solutionPath": "Medium/0006-zigzag-conversion/solution.java",
+      "firstSolvedAt": "2026-08-05T19:02:07.000Z",
+      "lastSolvedAt": "2026-08-05T19:02:07.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "4 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.6 MB",
       "memoryPercentile": null,
       "revisit": false,
       "takeaway": null,

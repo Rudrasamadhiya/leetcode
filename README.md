@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solved-51-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
+  <img src="https://img.shields.io/badge/Solved-52-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
   <img src="https://img.shields.io/badge/Easy-21-00b8a3?style=for-the-badge" alt="Easy"/>
-  <img src="https://img.shields.io/badge/Medium-30-ffb800?style=for-the-badge" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-31-ffb800?style=for-the-badge" alt="Medium"/>
   <img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge" alt="Hard"/>
   <a href="https://leetcode.com/u/RudraSamadhiya/"><img src="https://img.shields.io/badge/LeetCode-RudraSamadhiya-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
 </p>
 
 <table align="center"><tr>
 <td align="center" width="20%">
-<b style="font-size:22px">51</b><br/>
+<b style="font-size:22px">52</b><br/>
 <sub>Solved</sub>
 </td>
 <td align="center" width="20%">
@@ -23,7 +23,7 @@
 <sub>Topics</sub><br/><sub><i>41% coverage</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">0d</b><br/>
+<b style="font-size:22px">1d</b><br/>
 <sub>Current streak</sub><br/><sub><i>best 1d</i></sub>
 </td>
 <td align="center" width="20%">
@@ -51,15 +51,15 @@
 
 | Difficulty | Solved | Share | |
 |:--|--:|--:|:--|
-| Easy | **21** | 41.2% | `█████████░░░░░░░░░░░░░` |
-| Medium | **30** | 58.8% | `█████████████░░░░░░░░░` |
+| Easy | **21** | 40.4% | `█████████░░░░░░░░░░░░░` |
+| Medium | **31** | 59.6% | `█████████████░░░░░░░░░` |
 | Hard | **0** | 0.0% | `░░░░░░░░░░░░░░░░░░░░░░` |
 
 ## 🔥 Activity
 
 <img src="./assets/charts/heatmap.svg" alt="Solving activity heatmap" width="100%"/>
 
-**0** day current streak · **1** day best streak · **3** active days · **1%** consistency
+**1** day current streak · **1** day best streak · **4** active days · **1%** consistency
 
 ## 🎯 Topic coverage
 
@@ -100,16 +100,17 @@ Covered **29** of **71** tracked topics.
 
 ## 📝 Notes pending
 
-**51** problems imported from history without a write-up. Re-solve one on LeetCode and the review card will capture the reasoning.
+**52** problems imported from history without a write-up. Re-solve one on LeetCode and the review card will capture the reasoning.
 
 <details>
-<summary>Show all 51</summary>
+<summary>Show all 52</summary>
 
 | Problem | Difficulty | Solved |
 |:--|:--|:--|
 | [Two Sum](./Easy/0001-two-sum) | Easy | 2025-09-19 |
 | [Add Two Numbers](./Medium/0002-add-two-numbers) | Medium | 2026-06-19 |
 | [Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) | Medium | 2026-06-19 |
+| [Zigzag Conversion](./Medium/0006-zigzag-conversion) | Medium | 2026-08-05 |
 | [Container With Most Water](./Medium/0011-container-with-most-water) | Medium | 2026-06-19 |
 | [3Sum](./Medium/0015-3sum) | Medium | 2026-06-19 |
 | [Valid Parentheses](./Easy/0020-valid-parentheses) | Easy | 2026-06-19 |
@@ -193,12 +194,13 @@ Covered **29** of **71** tracked topics.
 </details>
 
 <details open>
-<summary><b>Medium</b> · 30 problems</summary>
+<summary><b>Medium</b> · 31 problems</summary>
 
 | # | Problem | Topics | Language | Time |
 |:--|:--|:--|:--|--:|
 | `2` | [Add Two Numbers](./Medium/0002-add-two-numbers) | Linked List, Math, Recursion | java | — |
 | `3` | [Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window | java | — |
+| `6` | [Zigzag Conversion](./Medium/0006-zigzag-conversion) | String | java | — |
 | `11` | [Container With Most Water](./Medium/0011-container-with-most-water) | Array, Two Pointers, Greedy | java | — |
 | `15` | [3Sum](./Medium/0015-3sum) | Array, Two Pointers, Sorting | java | — |
 | `33` | [Search in Rotated Sorted Array](./Medium/0033-search-in-rotated-sorted-array) | Array, Binary Search | java | — |
@@ -485,9 +487,10 @@ Covered **29** of **71** tracked topics.
 - [20. Valid Parentheses](./Easy/0020-valid-parentheses) — Easy
 - [739. Daily Temperatures](./Medium/0739-daily-temperatures) — Medium
 
-<b>String</b> (8)
+<b>String</b> (9)
 
 - [3. Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) — Medium
+- [6. Zigzag Conversion](./Medium/0006-zigzag-conversion) — Medium
 - [20. Valid Parentheses](./Easy/0020-valid-parentheses) — Easy
 - [28. Find the Index of the First Occurrence in a String](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) — Easy
 - [49. Group Anagrams](./Medium/0049-group-anagrams) — Medium
