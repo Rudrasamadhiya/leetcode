@@ -1,0 +1,147 @@
+{
+  "version": 1,
+  "generatedAt": "2026-06-19T06:35:02.000Z",
+  "problems": {
+    "two-sum": {
+      "questionId": "1",
+      "title": "Two Sum",
+      "titleSlug": "two-sum",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0001-two-sum",
+      "solutionPath": "Easy/0001-two-sum/solution.java",
+      "firstSolvedAt": "2025-09-19T21:01:26.000Z",
+      "lastSolvedAt": "2026-06-19T06:14:53.000Z",
+      "solveCount": 2,
+      "durationMs": null,
+      "runtimeDisplay": "3 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "47 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "questionId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching",
+        "Z Algorithm",
+        "Knuth–Morris–Pratt Algorithm",
+        "Boyer–Moore String-Search Algorithm"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "solutionPath": "Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.java",
+      "firstSolvedAt": "2026-02-02T09:00:33.000Z",
+      "lastSolvedAt": "2026-02-02T09:00:33.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "42.3 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "valid-parentheses": {
+      "questionId": "20",
+      "title": "Valid Parentheses",
+      "titleSlug": "valid-parentheses",
+      "difficulty": "Easy",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0020-valid-parentheses",
+      "solutionPath": "Easy/0020-valid-parentheses/solution.java",
+      "firstSolvedAt": "2026-06-19T06:18:24.000Z",
+      "lastSolvedAt": "2026-06-19T06:18:24.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "3 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "43.5 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "merge-two-sorted-lists": {
+      "questionId": "21",
+      "title": "Merge Two Sorted Lists",
+      "titleSlug": "merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0021-merge-two-sorted-lists",
+      "solutionPath": "Easy/0021-merge-two-sorted-lists/solution.java",
+      "firstSolvedAt": "2026-06-19T06:22:56.000Z",
+      "lastSolvedAt": "2026-06-19T06:22:56.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "44.2 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "maximum-subarray": {
+      "questionId": "53",
+      "title": "Maximum Subarray",
+      "titleSlug": "maximum-subarray",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0053-maximum-subarray",
+      "solutionPath": "Medium/0053-maximum-subarray/solution.java",
+      "firstSolvedAt": "2026-06-19T06:30:58.000Z",
+      "lastSolvedAt": "2026-06-19T06:35:02.000Z",
+      "solveCount": 3,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "77 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    }
+  }
+}
