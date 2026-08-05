@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Easy-21-00b8a3?style=for-the-badge" alt="Easy"/>
   <img src="https://img.shields.io/badge/Medium-31-ffb800?style=for-the-badge" alt="Medium"/>
   <img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge" alt="Hard"/>
-  <a href="https://leetcode.com/u/RudraSamadhiya/"><img src="https://img.shields.io/badge/LeetCode-RudraSamadhiya-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
 </p>
 
 <table align="center"><tr>
