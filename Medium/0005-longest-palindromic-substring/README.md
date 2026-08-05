@@ -1,6 +1,6 @@
 # 5. Longest Palindromic Substring
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffb800?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square) ![Solved in](https://img.shields.io/badge/Solved%20in-1s-a371f7?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffb800?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square)
 
 **[Open on LeetCode →](https://leetcode.com/problems/longest-palindromic-substring/)**
 
@@ -10,7 +10,6 @@
 | **Topics** | `Two Pointers` · `String` · `Dynamic Programming` · `Manacher` |
 | **Language** | Java |
 | **Solved** | August 5, 2026 |
-| **Time to solve** | 1s |
 | **Test cases** | 144 / 144 passed |
 | **Runtime** | 14 ms — beats **89.8%** |
 | **Memory** | 43.4 MB — beats **89.6%** |
