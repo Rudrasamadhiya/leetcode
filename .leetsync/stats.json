@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-19T06:35:02.000Z",
+  "generatedAt": "2026-06-19T06:48:06.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -137,6 +137,144 @@
       "runtimeDisplay": "1 ms",
       "runtimePercentile": null,
       "memoryDisplay": "77 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "climbing-stairs": {
+      "questionId": "70",
+      "title": "Climbing Stairs",
+      "titleSlug": "climbing-stairs",
+      "difficulty": "Easy",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0070-climbing-stairs",
+      "solutionPath": "Easy/0070-climbing-stairs/solution.java",
+      "firstSolvedAt": "2026-06-19T06:37:02.000Z",
+      "lastSolvedAt": "2026-06-19T06:37:02.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "42.2 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "maximum-depth-of-binary-tree": {
+      "questionId": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "titleSlug": "maximum-depth-of-binary-tree",
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0104-maximum-depth-of-binary-tree",
+      "solutionPath": "Easy/0104-maximum-depth-of-binary-tree/solution.java",
+      "firstSolvedAt": "2026-06-19T06:43:30.000Z",
+      "lastSolvedAt": "2026-06-19T06:43:30.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "44.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "questionId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "titleSlug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0121-best-time-to-buy-and-sell-stock",
+      "solutionPath": "Easy/0121-best-time-to-buy-and-sell-stock/solution.java",
+      "firstSolvedAt": "2026-06-19T06:45:10.000Z",
+      "lastSolvedAt": "2026-06-19T06:45:10.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "94.3 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "valid-palindrome": {
+      "questionId": "125",
+      "title": "Valid Palindrome",
+      "titleSlug": "valid-palindrome",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0125-valid-palindrome",
+      "solutionPath": "Easy/0125-valid-palindrome/solution.java",
+      "firstSolvedAt": "2026-06-19T06:46:50.000Z",
+      "lastSolvedAt": "2026-06-19T06:46:50.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "44.2 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "single-number": {
+      "questionId": "136",
+      "title": "Single Number",
+      "titleSlug": "single-number",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0136-single-number",
+      "solutionPath": "Easy/0136-single-number/solution.java",
+      "firstSolvedAt": "2026-06-19T06:48:06.000Z",
+      "lastSolvedAt": "2026-06-19T06:48:06.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "47 MB",
       "memoryPercentile": null,
       "revisit": false,
       "takeaway": null,
