@@ -1,6 +1,6 @@
 # 7. Reverse Integer
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffb800?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square) ![Solved in](https://img.shields.io/badge/Solved%20in-1s-a371f7?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffb800?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square) ![Solved in](https://img.shields.io/badge/Solved%20in-30s-a371f7?style=flat-square)
 
 **[Open on LeetCode →](https://leetcode.com/problems/reverse-integer/)**
 
@@ -10,10 +10,10 @@
 | **Topics** | `Math` |
 | **Language** | Java |
 | **Solved** | August 5, 2026 |
-| **Time to solve** | 1s |
+| **Time to solve** | 30s |
 | **Test cases** | 1046 / 1046 passed |
 | **Runtime** | 1 ms — beats **100.0%** |
-| **Memory** | 42.7 MB — beats **26.8%** |
+| **Memory** | 42.6 MB — beats **46.3%** |
 
 ## Solution
 

@@ -26,7 +26,7 @@
 <sub>Current streak</sub><br/><sub><i>best 1d</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">11s</b><br/>
+<b style="font-size:22px">30s</b><br/>
 <sub>Median solve</sub><br/><sub><i>3 timed</i></sub>
 </td>
 <td align="center" width="20%">
@@ -94,7 +94,7 @@ Covered **29** of **71** tracked topics.
 | Difficulty | Median | Average | Range |
 |:--|--:|--:|:--|
 | Easy | 39s | 39s | 11s – 1m 08s |
-| Medium | 1s | 1s | 1s – 1s |
+| Medium | 30s | 30s | 30s – 30s |
 | Hard | — | — | — |
 
 Runtime percentile averages **93.7** across 3 submissions, with **2** landing in the top 10%.
@@ -214,7 +214,7 @@ Runtime percentile averages **93.7** across 3 submissions, with **2** landing in
 | `2` | [Add Two Numbers](./Medium/0002-add-two-numbers) | Linked List, Math, Recursion | java | — |
 | `3` | [Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window | java | — |
 | `6` | [Zigzag Conversion](./Medium/0006-zigzag-conversion) | String | java | — |
-| `7` | [Reverse Integer](./Medium/0007-reverse-integer) | Math | java | 1s |
+| `7` | [Reverse Integer](./Medium/0007-reverse-integer) | Math | java | 30s |
 | `11` | [Container With Most Water](./Medium/0011-container-with-most-water) | Array, Two Pointers, Greedy | java | — |
 | `15` | [3Sum](./Medium/0015-3sum) | Array, Two Pointers, Sorting | java | — |
 | `33` | [Search in Rotated Sorted Array](./Medium/0033-search-in-rotated-sorted-array) | Array, Binary Search | java | — |
