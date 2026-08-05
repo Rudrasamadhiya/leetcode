@@ -1,6 +1,6 @@
 # 13. Roman to Integer
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square) ![Solved in](https://img.shields.io/badge/Solved%20in-11s-a371f7?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-00b8a3?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square) ![Solved in](https://img.shields.io/badge/Solved%20in-18s-a371f7?style=flat-square)
 
 **[Open on LeetCode →](https://leetcode.com/problems/roman-to-integer/)**
 
@@ -10,7 +10,7 @@
 | **Topics** | `Hash Table` · `Math` · `String` |
 | **Language** | Java |
 | **Solved** | August 5, 2026 |
-| **Time to solve** | 11s |
+| **Time to solve** | 18s |
 | **Test cases** | 3999 / 3999 passed |
 | **Runtime** | 2 ms — beats **100.0%** |
 | **Memory** | 46.1 MB — beats **97.3%** |

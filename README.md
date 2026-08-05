@@ -93,7 +93,7 @@ Covered **29** of **71** tracked topics.
 
 | Difficulty | Median | Average | Range |
 |:--|--:|--:|:--|
-| Easy | 39s | 39s | 11s – 1m 08s |
+| Easy | 43s | 43s | 18s – 1m 08s |
 | Medium | 30s | 30s | 30s – 30s |
 | Hard | — | — | — |
 
@@ -182,7 +182,7 @@ Runtime percentile averages **93.7** across 3 submissions, with **2** landing in
 |:--|:--|:--|:--|--:|
 | `1` | [Two Sum](./Easy/0001-two-sum) | Array, Hash Table | java | — |
 | `9` | [Palindrome Number](./Easy/0009-palindrome-number) | Math | java | 1m 08s |
-| `13` | [Roman to Integer](./Easy/0013-roman-to-integer) | Hash Table, Math, String | java | 11s |
+| `13` | [Roman to Integer](./Easy/0013-roman-to-integer) | Hash Table, Math, String | java | 18s |
 | `20` | [Valid Parentheses](./Easy/0020-valid-parentheses) | String, Stack, Bracket Sequences | java | — |
 | `21` | [Merge Two Sorted Lists](./Easy/0021-merge-two-sorted-lists) | Linked List, Recursion | java | — |
 | `28` | [Find the Index of the First Occurrence in a String](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) | Two Pointers, String, String Matching | java | — |
