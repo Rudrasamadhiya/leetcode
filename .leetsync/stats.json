@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-19T06:48:06.000Z",
+  "generatedAt": "2026-06-19T12:57:14.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -275,6 +275,295 @@
       "runtimeDisplay": "1 ms",
       "runtimePercentile": null,
       "memoryDisplay": "47 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "linked-list-cycle": {
+      "questionId": "141",
+      "title": "Linked List Cycle",
+      "titleSlug": "linked-list-cycle",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0141-linked-list-cycle",
+      "solutionPath": "Easy/0141-linked-list-cycle/solution.java",
+      "firstSolvedAt": "2026-06-19T09:44:14.000Z",
+      "lastSolvedAt": "2026-06-19T09:44:14.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.7 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "intersection-of-two-linked-lists": {
+      "questionId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "titleSlug": "intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0160-intersection-of-two-linked-lists",
+      "solutionPath": "Easy/0160-intersection-of-two-linked-lists/solution.java",
+      "firstSolvedAt": "2026-06-19T09:45:52.000Z",
+      "lastSolvedAt": "2026-06-19T10:16:10.000Z",
+      "solveCount": 2,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "52.7 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "majority-element": {
+      "questionId": "169",
+      "title": "Majority Element",
+      "titleSlug": "majority-element",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting",
+        "Boyer–Moore Majority Vote Algorithm"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0169-majority-element",
+      "solutionPath": "Easy/0169-majority-element/solution.java",
+      "firstSolvedAt": "2026-06-19T12:54:01.000Z",
+      "lastSolvedAt": "2026-06-19T12:54:01.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "56 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "reverse-linked-list": {
+      "questionId": "206",
+      "title": "Reverse Linked List",
+      "titleSlug": "reverse-linked-list",
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0206-reverse-linked-list",
+      "solutionPath": "Easy/0206-reverse-linked-list/solution.java",
+      "firstSolvedAt": "2026-06-19T12:54:31.000Z",
+      "lastSolvedAt": "2026-06-19T12:54:31.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "44.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "contains-duplicate": {
+      "questionId": "217",
+      "title": "Contains Duplicate",
+      "titleSlug": "contains-duplicate",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0217-contains-duplicate",
+      "solutionPath": "Easy/0217-contains-duplicate/solution.java",
+      "firstSolvedAt": "2026-06-19T12:54:58.000Z",
+      "lastSolvedAt": "2026-06-19T12:54:58.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "11 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "94.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "invert-binary-tree": {
+      "questionId": "226",
+      "title": "Invert Binary Tree",
+      "titleSlug": "invert-binary-tree",
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0226-invert-binary-tree",
+      "solutionPath": "Easy/0226-invert-binary-tree/solution.java",
+      "firstSolvedAt": "2026-06-19T12:55:33.000Z",
+      "lastSolvedAt": "2026-06-19T12:55:33.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "43 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "valid-anagram": {
+      "questionId": "242",
+      "title": "Valid Anagram",
+      "titleSlug": "valid-anagram",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0242-valid-anagram",
+      "solutionPath": "Easy/0242-valid-anagram/solution.java",
+      "firstSolvedAt": "2026-06-19T12:55:55.000Z",
+      "lastSolvedAt": "2026-06-19T12:55:55.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "6 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "44.5 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "missing-number": {
+      "questionId": "268",
+      "title": "Missing Number",
+      "titleSlug": "missing-number",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0268-missing-number",
+      "solutionPath": "Easy/0268-missing-number/solution.java",
+      "firstSolvedAt": "2026-06-19T12:56:26.000Z",
+      "lastSolvedAt": "2026-06-19T12:56:26.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.9 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "ransom-note": {
+      "questionId": "383",
+      "title": "Ransom Note",
+      "titleSlug": "ransom-note",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0383-ransom-note",
+      "solutionPath": "Easy/0383-ransom-note/solution.java",
+      "firstSolvedAt": "2026-06-19T12:56:49.000Z",
+      "lastSolvedAt": "2026-06-19T12:56:49.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "subtree-of-another-tree": {
+      "questionId": "572",
+      "title": "Subtree of Another Tree",
+      "titleSlug": "subtree-of-another-tree",
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "String Matching",
+        "Binary Tree",
+        "Hash Function"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0572-subtree-of-another-tree",
+      "solutionPath": "Easy/0572-subtree-of-another-tree/solution.java",
+      "firstSolvedAt": "2026-06-19T12:57:14.000Z",
+      "lastSolvedAt": "2026-06-19T12:57:14.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "3 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.4 MB",
       "memoryPercentile": null,
       "revisit": false,
       "takeaway": null,
