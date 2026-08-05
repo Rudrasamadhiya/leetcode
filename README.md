@@ -6,21 +6,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solved-40-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
-  <img src="https://img.shields.io/badge/Easy-20-00b8a3?style=for-the-badge" alt="Easy"/>
-  <img src="https://img.shields.io/badge/Medium-20-ffb800?style=for-the-badge" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Solved-51-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
+  <img src="https://img.shields.io/badge/Easy-21-00b8a3?style=for-the-badge" alt="Easy"/>
+  <img src="https://img.shields.io/badge/Medium-30-ffb800?style=for-the-badge" alt="Medium"/>
   <img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge" alt="Hard"/>
   <a href="https://leetcode.com/u/RudraSamadhiya/"><img src="https://img.shields.io/badge/LeetCode-RudraSamadhiya-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
 </p>
 
 <table align="center"><tr>
 <td align="center" width="20%">
-<b style="font-size:22px">40</b><br/>
+<b style="font-size:22px">51</b><br/>
 <sub>Solved</sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">27/71</b><br/>
-<sub>Topics</sub><br/><sub><i>38% coverage</i></sub>
+<b style="font-size:22px">29/71</b><br/>
+<sub>Topics</sub><br/><sub><i>41% coverage</i></sub>
 </td>
 <td align="center" width="20%">
 <b style="font-size:22px">0d</b><br/>
@@ -51,8 +51,8 @@
 
 | Difficulty | Solved | Share | |
 |:--|--:|--:|:--|
-| Easy | **20** | 50.0% | `███████████░░░░░░░░░░░` |
-| Medium | **20** | 50.0% | `███████████░░░░░░░░░░░` |
+| Easy | **21** | 41.2% | `█████████░░░░░░░░░░░░░` |
+| Medium | **30** | 58.8% | `█████████████░░░░░░░░░` |
 | Hard | **0** | 0.0% | `░░░░░░░░░░░░░░░░░░░░░░` |
 
 ## 🔥 Activity
@@ -65,20 +65,20 @@
 
 <img src="./assets/charts/coverage.svg" alt="Topic coverage by category" width="100%"/>
 
-Covered **27** of **71** tracked topics.
+Covered **29** of **71** tracked topics.
 
 <img src="./assets/charts/topics.svg" alt="Problems solved by topic" width="100%"/>
 
 <details>
 <summary><b>Topics not yet attempted</b></summary>
 
-**Data Structures** — 11 remaining
+**Data Structures** — 10 remaining
 
-`Queue` `Heap (Priority Queue)` `Graph` `Trie` `Union Find` `Segment Tree` `Binary Indexed Tree` `Monotonic Stack` `Monotonic Queue` `Ordered Set` `Doubly-Linked List`
+`Queue` `Heap (Priority Queue)` `Graph` `Trie` `Union Find` `Segment Tree` `Binary Indexed Tree` `Monotonic Queue` `Ordered Set` `Doubly-Linked List`
 
-**Algorithms** — 12 remaining
+**Algorithms** — 11 remaining
 
-`Shortest Path` `Minimum Spanning Tree` `Strongly Connected Component` `Eulerian Circuit` `Quickselect` `Counting Sort` `Bucket Sort` `Radix Sort` `Merge Sort` `Prefix Sum` `Rolling Hash` `Suffix Array`
+`Shortest Path` `Minimum Spanning Tree` `Strongly Connected Component` `Eulerian Circuit` `Quickselect` `Counting Sort` `Bucket Sort` `Radix Sort` `Merge Sort` `Rolling Hash` `Suffix Array`
 
 **Math & Theory** — 9 remaining
 
@@ -100,10 +100,10 @@ Covered **27** of **71** tracked topics.
 
 ## 📝 Notes pending
 
-**40** problems imported from history without a write-up. Re-solve one on LeetCode and the review card will capture the reasoning.
+**51** problems imported from history without a write-up. Re-solve one on LeetCode and the review card will capture the reasoning.
 
 <details>
-<summary>Show all 40</summary>
+<summary>Show all 51</summary>
 
 | Problem | Difficulty | Solved |
 |:--|:--|:--|
@@ -140,20 +140,31 @@ Covered **27** of **71** tracked topics.
 | [Number of Islands](./Medium/0200-number-of-islands) | Medium | 2026-06-19 |
 | [Reverse Linked List](./Easy/0206-reverse-linked-list) | Easy | 2026-06-19 |
 | [Course Schedule](./Medium/0207-course-schedule) | Medium | 2026-06-19 |
+| [House Robber II](./Medium/0213-house-robber-ii) | Medium | 2026-06-19 |
 | [Contains Duplicate](./Easy/0217-contains-duplicate) | Easy | 2026-06-19 |
 | [Invert Binary Tree](./Easy/0226-invert-binary-tree) | Easy | 2026-06-19 |
+| [Product of Array Except Self](./Medium/0238-product-of-array-except-self) | Medium | 2026-06-19 |
 | [Valid Anagram](./Easy/0242-valid-anagram) | Easy | 2026-06-19 |
 | [Missing Number](./Easy/0268-missing-number) | Easy | 2026-06-19 |
+| [Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) | Medium | 2026-06-19 |
+| [Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) | Medium | 2026-06-19 |
+| [Coin Change](./Medium/0322-coin-change) | Medium | 2026-06-19 |
+| [Sum of Two Integers](./Medium/0371-sum-of-two-integers) | Medium | 2026-06-19 |
 | [Ransom Note](./Easy/0383-ransom-note) | Easy | 2026-06-19 |
+| [Pacific Atlantic Water Flow](./Medium/0417-pacific-atlantic-water-flow) | Medium | 2026-06-19 |
+| [Non-overlapping Intervals](./Medium/0435-non-overlapping-intervals) | Medium | 2026-06-19 |
+| [Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) | Easy | 2026-06-19 |
 | [Subtree of Another Tree](./Easy/0572-subtree-of-another-tree) | Easy | 2026-06-19 |
+| [Palindromic Substrings](./Medium/0647-palindromic-substrings) | Medium | 2026-06-19 |
 | [Binary Search](./Easy/0704-binary-search) | Easy | 2026-06-19 |
+| [Daily Temperatures](./Medium/0739-daily-temperatures) | Medium | 2026-06-19 |
 
 </details>
 
 ## 🗂️ All solutions
 
 <details open>
-<summary><b>Easy</b> · 20 problems</summary>
+<summary><b>Easy</b> · 21 problems</summary>
 
 | # | Problem | Topics | Language | Time |
 |:--|:--|:--|:--|--:|
@@ -175,13 +186,14 @@ Covered **27** of **71** tracked topics.
 | `242` | [Valid Anagram](./Easy/0242-valid-anagram) | Hash Table, String, Sorting | java | — |
 | `268` | [Missing Number](./Easy/0268-missing-number) | Array, Hash Table, Math | java | — |
 | `383` | [Ransom Note](./Easy/0383-ransom-note) | Hash Table, String, Counting | java | — |
+| `543` | [Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) | Tree, Depth-First Search, Binary Tree | java | — |
 | `572` | [Subtree of Another Tree](./Easy/0572-subtree-of-another-tree) | Tree, Depth-First Search, String Matching | java | — |
 | `704` | [Binary Search](./Easy/0704-binary-search) | Array, Binary Search | java | — |
 
 </details>
 
 <details open>
-<summary><b>Medium</b> · 20 problems</summary>
+<summary><b>Medium</b> · 30 problems</summary>
 
 | # | Problem | Topics | Language | Time |
 |:--|:--|:--|:--|--:|
@@ -205,13 +217,23 @@ Covered **27** of **71** tracked topics.
 | `153` | [Find Minimum in Rotated Sorted Array](./Medium/0153-find-minimum-in-rotated-sorted-array) | Array, Binary Search | java | — |
 | `200` | [Number of Islands](./Medium/0200-number-of-islands) | Array, Depth-First Search, Breadth-First Search | java | — |
 | `207` | [Course Schedule](./Medium/0207-course-schedule) | Depth-First Search, Breadth-First Search, Graph Theory | java | — |
+| `213` | [House Robber II](./Medium/0213-house-robber-ii) | Array, Dynamic Programming | java | — |
+| `238` | [Product of Array Except Self](./Medium/0238-product-of-array-except-self) | Array, Prefix Sum | java | — |
+| `287` | [Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) | Array, Two Pointers, Binary Search | java | — |
+| `300` | [Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) | Array, Binary Search, Dynamic Programming | java | — |
+| `322` | [Coin Change](./Medium/0322-coin-change) | Array, Dynamic Programming, Breadth-First Search | java | — |
+| `371` | [Sum of Two Integers](./Medium/0371-sum-of-two-integers) | Math, Bit Manipulation | java | — |
+| `417` | [Pacific Atlantic Water Flow](./Medium/0417-pacific-atlantic-water-flow) | Array, Depth-First Search, Breadth-First Search | java | — |
+| `435` | [Non-overlapping Intervals](./Medium/0435-non-overlapping-intervals) | Array, Dynamic Programming, Greedy | java | — |
+| `647` | [Palindromic Substrings](./Medium/0647-palindromic-substrings) | Two Pointers, String, Dynamic Programming | java | — |
+| `739` | [Daily Temperatures](./Medium/0739-daily-temperatures) | Array, Stack, Monotonic Stack | java | — |
 
 </details>
 
 <details>
 <summary><b>Browse by topic</b></summary>
 
-<b>Array</b> (22)
+<b>Array</b> (30)
 
 - [1. Two Sum](./Easy/0001-two-sum) — Easy
 - [11. Container With Most Water](./Medium/0011-container-with-most-water) — Medium
@@ -232,9 +254,17 @@ Covered **27** of **71** tracked topics.
 - [153. Find Minimum in Rotated Sorted Array](./Medium/0153-find-minimum-in-rotated-sorted-array) — Medium
 - [169. Majority Element](./Easy/0169-majority-element) — Easy
 - [200. Number of Islands](./Medium/0200-number-of-islands) — Medium
+- [213. House Robber II](./Medium/0213-house-robber-ii) — Medium
 - [217. Contains Duplicate](./Easy/0217-contains-duplicate) — Easy
+- [238. Product of Array Except Self](./Medium/0238-product-of-array-except-self) — Medium
 - [268. Missing Number](./Easy/0268-missing-number) — Easy
+- [287. Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) — Medium
+- [300. Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) — Medium
+- [322. Coin Change](./Medium/0322-coin-change) — Medium
+- [417. Pacific Atlantic Water Flow](./Medium/0417-pacific-atlantic-water-flow) — Medium
+- [435. Non-overlapping Intervals](./Medium/0435-non-overlapping-intervals) — Medium
 - [704. Binary Search](./Easy/0704-binary-search) — Easy
+- [739. Daily Temperatures](./Medium/0739-daily-temperatures) — Medium
 
 <b>Backtracking</b> (3)
 
@@ -242,31 +272,36 @@ Covered **27** of **71** tracked topics.
 - [46. Permutations](./Medium/0046-permutations) — Medium
 - [78. Subsets](./Medium/0078-subsets) — Medium
 
-<b>Binary Search</b> (4)
+<b>Binary Search</b> (6)
 
 - [33. Search in Rotated Sorted Array](./Medium/0033-search-in-rotated-sorted-array) — Medium
 - [153. Find Minimum in Rotated Sorted Array](./Medium/0153-find-minimum-in-rotated-sorted-array) — Medium
 - [268. Missing Number](./Easy/0268-missing-number) — Easy
+- [287. Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) — Medium
+- [300. Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) — Medium
 - [704. Binary Search](./Easy/0704-binary-search) — Easy
 
 <b>Binary Search Tree</b> (1)
 
 - [98. Validate Binary Search Tree](./Medium/0098-validate-binary-search-tree) — Medium
 
-<b>Binary Tree</b> (6)
+<b>Binary Tree</b> (7)
 
 - [98. Validate Binary Search Tree](./Medium/0098-validate-binary-search-tree) — Medium
 - [102. Binary Tree Level Order Traversal](./Medium/0102-binary-tree-level-order-traversal) — Medium
 - [104. Maximum Depth of Binary Tree](./Easy/0104-maximum-depth-of-binary-tree) — Easy
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal) — Medium
 - [226. Invert Binary Tree](./Easy/0226-invert-binary-tree) — Easy
+- [543. Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) — Easy
 - [572. Subtree of Another Tree](./Easy/0572-subtree-of-another-tree) — Easy
 
-<b>Bit Manipulation</b> (3)
+<b>Bit Manipulation</b> (5)
 
 - [78. Subsets](./Medium/0078-subsets) — Medium
 - [136. Single Number](./Easy/0136-single-number) — Easy
 - [268. Missing Number](./Easy/0268-missing-number) — Easy
+- [287. Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) — Medium
+- [371. Sum of Two Integers](./Medium/0371-sum-of-two-integers) — Medium
 
 <b>Boyer–Moore Majority Vote Algorithm</b> (1)
 
@@ -280,26 +315,34 @@ Covered **27** of **71** tracked topics.
 
 - [20. Valid Parentheses](./Easy/0020-valid-parentheses) — Easy
 
-<b>Breadth-First Search</b> (5)
+<b>Breadth-First Search</b> (7)
 
 - [102. Binary Tree Level Order Traversal](./Medium/0102-binary-tree-level-order-traversal) — Medium
 - [104. Maximum Depth of Binary Tree](./Easy/0104-maximum-depth-of-binary-tree) — Easy
 - [200. Number of Islands](./Medium/0200-number-of-islands) — Medium
 - [207. Course Schedule](./Medium/0207-course-schedule) — Medium
 - [226. Invert Binary Tree](./Easy/0226-invert-binary-tree) — Easy
+- [322. Coin Change](./Medium/0322-coin-change) — Medium
+- [417. Pacific Atlantic Water Flow](./Medium/0417-pacific-atlantic-water-flow) — Medium
+
+<b>Complete Knapsack</b> (1)
+
+- [322. Coin Change](./Medium/0322-coin-change) — Medium
 
 <b>Counting</b> (2)
 
 - [169. Majority Element](./Easy/0169-majority-element) — Easy
 - [383. Ransom Note](./Easy/0383-ransom-note) — Easy
 
-<b>Depth-First Search</b> (6)
+<b>Depth-First Search</b> (8)
 
 - [98. Validate Binary Search Tree](./Medium/0098-validate-binary-search-tree) — Medium
 - [104. Maximum Depth of Binary Tree](./Easy/0104-maximum-depth-of-binary-tree) — Easy
 - [200. Number of Islands](./Medium/0200-number-of-islands) — Medium
 - [207. Course Schedule](./Medium/0207-course-schedule) — Medium
 - [226. Invert Binary Tree](./Easy/0226-invert-binary-tree) — Easy
+- [417. Pacific Atlantic Water Flow](./Medium/0417-pacific-atlantic-water-flow) — Medium
+- [543. Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) — Easy
 - [572. Subtree of Another Tree](./Easy/0572-subtree-of-another-tree) — Easy
 
 <b>Directed Acyclic Graph</b> (1)
@@ -312,24 +355,35 @@ Covered **27** of **71** tracked topics.
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal) — Medium
 - [169. Majority Element](./Easy/0169-majority-element) — Easy
 
-<b>Dynamic Programming</b> (4)
+<b>DP on Trees</b> (1)
+
+- [543. Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) — Easy
+
+<b>Dynamic Programming</b> (9)
 
 - [53. Maximum Subarray](./Medium/0053-maximum-subarray) — Medium
 - [70. Climbing Stairs](./Easy/0070-climbing-stairs) — Easy
 - [121. Best Time to Buy and Sell Stock](./Easy/0121-best-time-to-buy-and-sell-stock) — Easy
 - [152. Maximum Product Subarray](./Medium/0152-maximum-product-subarray) — Medium
+- [213. House Robber II](./Medium/0213-house-robber-ii) — Medium
+- [300. Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) — Medium
+- [322. Coin Change](./Medium/0322-coin-change) — Medium
+- [435. Non-overlapping Intervals](./Medium/0435-non-overlapping-intervals) — Medium
+- [647. Palindromic Substrings](./Medium/0647-palindromic-substrings) — Medium
 
-<b>Floyd's Cycle Finding Algorithm</b> (1)
+<b>Floyd's Cycle Finding Algorithm</b> (2)
 
 - [141. Linked List Cycle](./Easy/0141-linked-list-cycle) — Easy
+- [287. Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) — Medium
 
 <b>Graph Theory</b> (1)
 
 - [207. Course Schedule](./Medium/0207-course-schedule) — Medium
 
-<b>Greedy</b> (1)
+<b>Greedy</b> (2)
 
 - [11. Container With Most Water](./Medium/0011-container-with-most-water) — Medium
+- [435. Non-overlapping Intervals](./Medium/0435-non-overlapping-intervals) — Medium
 
 <b>Hash Function</b> (1)
 
@@ -350,6 +404,10 @@ Covered **27** of **71** tracked topics.
 - [268. Missing Number](./Easy/0268-missing-number) — Easy
 - [383. Ransom Note](./Easy/0383-ransom-note) — Easy
 
+<b>Knapsack Problem</b> (1)
+
+- [322. Coin Change](./Medium/0322-coin-change) — Medium
+
 <b>Knuth–Morris–Pratt Algorithm</b> (1)
 
 - [28. Find the Index of the First Occurrence in a String](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) — Easy
@@ -362,22 +420,40 @@ Covered **27** of **71** tracked topics.
 - [160. Intersection of Two Linked Lists](./Easy/0160-intersection-of-two-linked-lists) — Easy
 - [206. Reverse Linked List](./Easy/0206-reverse-linked-list) — Easy
 
-<b>Math</b> (4)
+<b>Longest Increasing Subsequence</b> (1)
+
+- [300. Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) — Medium
+
+<b>Math</b> (5)
 
 - [2. Add Two Numbers](./Medium/0002-add-two-numbers) — Medium
 - [48. Rotate Image](./Medium/0048-rotate-image) — Medium
 - [70. Climbing Stairs](./Easy/0070-climbing-stairs) — Easy
 - [268. Missing Number](./Easy/0268-missing-number) — Easy
+- [371. Sum of Two Integers](./Medium/0371-sum-of-two-integers) — Medium
 
-<b>Matrix</b> (3)
+<b>Matrix</b> (4)
 
 - [48. Rotate Image](./Medium/0048-rotate-image) — Medium
 - [73. Set Matrix Zeroes](./Medium/0073-set-matrix-zeroes) — Medium
 - [200. Number of Islands](./Medium/0200-number-of-islands) — Medium
+- [417. Pacific Atlantic Water Flow](./Medium/0417-pacific-atlantic-water-flow) — Medium
 
 <b>Memoization</b> (1)
 
 - [70. Climbing Stairs](./Easy/0070-climbing-stairs) — Easy
+
+<b>Monotonic Stack</b> (1)
+
+- [739. Daily Temperatures](./Medium/0739-daily-temperatures) — Medium
+
+<b>Pigeonhole Principle</b> (1)
+
+- [287. Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) — Medium
+
+<b>Prefix Sum</b> (1)
+
+- [238. Product of Array Except Self](./Medium/0238-product-of-array-except-self) — Medium
 
 <b>Quicksort</b> (1)
 
@@ -393,7 +469,7 @@ Covered **27** of **71** tracked topics.
 
 - [3. Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) — Medium
 
-<b>Sorting</b> (7)
+<b>Sorting</b> (8)
 
 - [15. 3Sum](./Medium/0015-3sum) — Medium
 - [49. Group Anagrams](./Medium/0049-group-anagrams) — Medium
@@ -402,12 +478,14 @@ Covered **27** of **71** tracked topics.
 - [217. Contains Duplicate](./Easy/0217-contains-duplicate) — Easy
 - [242. Valid Anagram](./Easy/0242-valid-anagram) — Easy
 - [268. Missing Number](./Easy/0268-missing-number) — Easy
+- [435. Non-overlapping Intervals](./Medium/0435-non-overlapping-intervals) — Medium
 
-<b>Stack</b> (1)
+<b>Stack</b> (2)
 
 - [20. Valid Parentheses](./Easy/0020-valid-parentheses) — Easy
+- [739. Daily Temperatures](./Medium/0739-daily-temperatures) — Medium
 
-<b>String</b> (7)
+<b>String</b> (8)
 
 - [3. Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) — Medium
 - [20. Valid Parentheses](./Easy/0020-valid-parentheses) — Easy
@@ -416,6 +494,7 @@ Covered **27** of **71** tracked topics.
 - [125. Valid Palindrome](./Easy/0125-valid-palindrome) — Easy
 - [242. Valid Anagram](./Easy/0242-valid-anagram) — Easy
 - [383. Ransom Note](./Easy/0383-ransom-note) — Easy
+- [647. Palindromic Substrings](./Medium/0647-palindromic-substrings) — Medium
 
 <b>String Matching</b> (2)
 
@@ -426,16 +505,17 @@ Covered **27** of **71** tracked topics.
 
 - [207. Course Schedule](./Medium/0207-course-schedule) — Medium
 
-<b>Tree</b> (6)
+<b>Tree</b> (7)
 
 - [98. Validate Binary Search Tree](./Medium/0098-validate-binary-search-tree) — Medium
 - [102. Binary Tree Level Order Traversal](./Medium/0102-binary-tree-level-order-traversal) — Medium
 - [104. Maximum Depth of Binary Tree](./Easy/0104-maximum-depth-of-binary-tree) — Easy
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](./Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal) — Medium
 - [226. Invert Binary Tree](./Easy/0226-invert-binary-tree) — Easy
+- [543. Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) — Easy
 - [572. Subtree of Another Tree](./Easy/0572-subtree-of-another-tree) — Easy
 
-<b>Two Pointers</b> (6)
+<b>Two Pointers</b> (8)
 
 - [11. Container With Most Water](./Medium/0011-container-with-most-water) — Medium
 - [15. 3Sum](./Medium/0015-3sum) — Medium
@@ -443,6 +523,8 @@ Covered **27** of **71** tracked topics.
 - [125. Valid Palindrome](./Easy/0125-valid-palindrome) — Easy
 - [141. Linked List Cycle](./Easy/0141-linked-list-cycle) — Easy
 - [160. Intersection of Two Linked Lists](./Easy/0160-intersection-of-two-linked-lists) — Easy
+- [287. Find the Duplicate Number](./Medium/0287-find-the-duplicate-number) — Medium
+- [647. Palindromic Substrings](./Medium/0647-palindromic-substrings) — Medium
 
 <b>Union-Find</b> (1)
 

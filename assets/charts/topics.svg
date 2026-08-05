@@ -3,65 +3,65 @@
 <text x="158" y="30.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Array</text>
 <rect x="168" y="22" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
 <rect x="168" y="22" width="620" height="13" rx="6.5" fill="#00b8a3"/>
-<text x="798" y="32.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">22</text>
+<text x="798" y="32.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">30</text>
 <text x="158" y="52.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Hash Table</text>
 <rect x="168" y="44" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="44" width="338.18" height="13" rx="6.5" fill="#4c8dff"/>
+<rect x="168" y="44" width="248" height="13" rx="6.5" fill="#4c8dff"/>
 <text x="798" y="54.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">12</text>
-<text x="158" y="74.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Sorting</text>
+<text x="158" y="74.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Dynamic Programming</text>
 <rect x="168" y="66" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="66" width="197.27" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="76.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">7</text>
-<text x="158" y="96.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">String</text>
+<rect x="168" y="66" width="186" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="76.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">9</text>
+<text x="158" y="96.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Depth-First Search</text>
 <rect x="168" y="88" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="88" width="197.27" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="98.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">7</text>
-<text x="158" y="118.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Binary Tree</text>
+<rect x="168" y="88" width="165.33" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="98.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">8</text>
+<text x="158" y="118.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Sorting</text>
 <rect x="168" y="110" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="110" width="169.09" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="120.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">6</text>
-<text x="158" y="140.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Depth-First Search</text>
+<rect x="168" y="110" width="165.33" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="120.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">8</text>
+<text x="158" y="140.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">String</text>
 <rect x="168" y="132" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="132" width="169.09" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="142.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">6</text>
-<text x="158" y="162.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Tree</text>
+<rect x="168" y="132" width="165.33" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="142.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">8</text>
+<text x="158" y="162.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Two Pointers</text>
 <rect x="168" y="154" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="154" width="169.09" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="164.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">6</text>
-<text x="158" y="184.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Two Pointers</text>
+<rect x="168" y="154" width="165.33" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="164.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">8</text>
+<text x="158" y="184.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Binary Tree</text>
 <rect x="168" y="176" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="176" width="169.09" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="186.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">6</text>
+<rect x="168" y="176" width="144.67" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="186.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">7</text>
 <text x="158" y="206.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Breadth-First Search</text>
 <rect x="168" y="198" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="198" width="140.91" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="208.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
-<text x="158" y="228.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Linked List</text>
+<rect x="168" y="198" width="144.67" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="208.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">7</text>
+<text x="158" y="228.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Tree</text>
 <rect x="168" y="220" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="220" width="140.91" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="230.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
+<rect x="168" y="220" width="144.67" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="230.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">7</text>
 <text x="158" y="250.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Binary Search</text>
 <rect x="168" y="242" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="242" width="112.73" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="252.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">4</text>
-<text x="158" y="272.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Dynamic Programming</text>
+<rect x="168" y="242" width="124" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="252.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">6</text>
+<text x="158" y="272.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Bit Manipulation</text>
 <rect x="168" y="264" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="264" width="112.73" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="274.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">4</text>
-<text x="158" y="294.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Math</text>
+<rect x="168" y="264" width="103.33" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="274.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
+<text x="158" y="294.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Linked List</text>
 <rect x="168" y="286" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="286" width="112.73" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="296.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">4</text>
-<text x="158" y="316.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Backtracking</text>
+<rect x="168" y="286" width="103.33" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="296.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
+<text x="158" y="316.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Math</text>
 <rect x="168" y="308" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="308" width="84.55" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="318.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">3</text>
-<text x="158" y="338.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Bit Manipulation</text>
+<rect x="168" y="308" width="103.33" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="318.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
+<text x="158" y="338.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Matrix</text>
 <rect x="168" y="330" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="330" width="84.55" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="340.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">3</text>
-<text x="158" y="360.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Divide and Conquer</text>
+<rect x="168" y="330" width="82.67" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="340.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">4</text>
+<text x="158" y="360.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Backtracking</text>
 <rect x="168" y="352" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="352" width="84.55" height="13" rx="6.5" fill="#a371f7"/>
+<rect x="168" y="352" width="62" height="13" rx="6.5" fill="#a371f7"/>
 <text x="798" y="362.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">3</text>
 </svg>

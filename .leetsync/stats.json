@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-19T13:11:03.000Z",
+  "generatedAt": "2026-06-19T13:16:29.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -1126,6 +1126,320 @@
       "runtimeDisplay": "4 ms",
       "runtimePercentile": null,
       "memoryDisplay": "47.1 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "house-robber-ii": {
+      "questionId": "213",
+      "title": "House Robber II",
+      "titleSlug": "house-robber-ii",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0213-house-robber-ii",
+      "solutionPath": "Medium/0213-house-robber-ii/solution.java",
+      "firstSolvedAt": "2026-06-19T13:11:36.000Z",
+      "lastSolvedAt": "2026-06-19T13:11:36.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "42.8 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "product-of-array-except-self": {
+      "questionId": "238",
+      "title": "Product of Array Except Self",
+      "titleSlug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0238-product-of-array-except-self",
+      "solutionPath": "Medium/0238-product-of-array-except-self/solution.java",
+      "firstSolvedAt": "2026-06-19T13:12:05.000Z",
+      "lastSolvedAt": "2026-06-19T13:12:05.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "72.2 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "find-the-duplicate-number": {
+      "questionId": "287",
+      "title": "Find the Duplicate Number",
+      "titleSlug": "find-the-duplicate-number",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation",
+        "Pigeonhole Principle",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0287-find-the-duplicate-number",
+      "solutionPath": "Medium/0287-find-the-duplicate-number/solution.java",
+      "firstSolvedAt": "2026-06-19T13:12:32.000Z",
+      "lastSolvedAt": "2026-06-19T13:12:32.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "4 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "82.9 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "longest-increasing-subsequence": {
+      "questionId": "300",
+      "title": "Longest Increasing Subsequence",
+      "titleSlug": "longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Longest Increasing Subsequence"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0300-longest-increasing-subsequence",
+      "solutionPath": "Medium/0300-longest-increasing-subsequence/solution.java",
+      "firstSolvedAt": "2026-06-19T13:12:57.000Z",
+      "lastSolvedAt": "2026-06-19T13:12:57.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "37 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "coin-change": {
+      "questionId": "322",
+      "title": "Coin Change",
+      "titleSlug": "coin-change",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Knapsack Problem",
+        "Complete Knapsack"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0322-coin-change",
+      "solutionPath": "Medium/0322-coin-change/solution.java",
+      "firstSolvedAt": "2026-06-19T13:13:25.000Z",
+      "lastSolvedAt": "2026-06-19T13:13:25.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "17 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.2 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "sum-of-two-integers": {
+      "questionId": "371",
+      "title": "Sum of Two Integers",
+      "titleSlug": "sum-of-two-integers",
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0371-sum-of-two-integers",
+      "solutionPath": "Medium/0371-sum-of-two-integers/solution.java",
+      "firstSolvedAt": "2026-06-19T13:13:52.000Z",
+      "lastSolvedAt": "2026-06-19T13:13:52.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "41.9 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "pacific-atlantic-water-flow": {
+      "questionId": "417",
+      "title": "Pacific Atlantic Water Flow",
+      "titleSlug": "pacific-atlantic-water-flow",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0417-pacific-atlantic-water-flow",
+      "solutionPath": "Medium/0417-pacific-atlantic-water-flow/solution.java",
+      "firstSolvedAt": "2026-06-19T13:14:27.000Z",
+      "lastSolvedAt": "2026-06-19T13:14:27.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "4 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "47.5 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "non-overlapping-intervals": {
+      "questionId": "435",
+      "title": "Non-overlapping Intervals",
+      "titleSlug": "non-overlapping-intervals",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0435-non-overlapping-intervals",
+      "solutionPath": "Medium/0435-non-overlapping-intervals/solution.java",
+      "firstSolvedAt": "2026-06-19T13:14:53.000Z",
+      "lastSolvedAt": "2026-06-19T13:14:53.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "44 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "115.7 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "diameter-of-binary-tree": {
+      "questionId": "543",
+      "title": "Diameter of Binary Tree",
+      "titleSlug": "diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "DP on Trees"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0543-diameter-of-binary-tree",
+      "solutionPath": "Easy/0543-diameter-of-binary-tree/solution.java",
+      "firstSolvedAt": "2026-06-19T13:15:26.000Z",
+      "lastSolvedAt": "2026-06-19T13:15:26.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.9 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "palindromic-substrings": {
+      "questionId": "647",
+      "title": "Palindromic Substrings",
+      "titleSlug": "palindromic-substrings",
+      "difficulty": "Medium",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0647-palindromic-substrings",
+      "solutionPath": "Medium/0647-palindromic-substrings/solution.java",
+      "firstSolvedAt": "2026-06-19T13:16:03.000Z",
+      "lastSolvedAt": "2026-06-19T13:16:03.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "5 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "42.9 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "daily-temperatures": {
+      "questionId": "739",
+      "title": "Daily Temperatures",
+      "titleSlug": "daily-temperatures",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0739-daily-temperatures",
+      "solutionPath": "Medium/0739-daily-temperatures/solution.java",
+      "firstSolvedAt": "2026-06-19T13:16:29.000Z",
+      "lastSolvedAt": "2026-06-19T13:16:29.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "62 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "107.6 MB",
       "memoryPercentile": null,
       "revisit": false,
       "takeaway": null,

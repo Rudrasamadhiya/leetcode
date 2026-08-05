@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-label="Distribution by difficulty" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
 <title>Distribution by difficulty</title>
 <circle cx="110" cy="110" r="79.2" fill="none" stroke="rgba(140,148,160,0.16)" stroke-width="28.6"/>
-<circle cx="110" cy="110" r="79.2" fill="none" stroke="#00b8a3" stroke-width="28.6" stroke-dasharray="248.81 248.81" stroke-dashoffset="0" transform="rotate(-90 110 110)" stroke-linecap="butt"/>
-<circle cx="110" cy="110" r="79.2" fill="none" stroke="#ffb800" stroke-width="28.6" stroke-dasharray="248.81 248.81" stroke-dashoffset="-248.81" transform="rotate(-90 110 110)" stroke-linecap="butt"/>
+<circle cx="110" cy="110" r="79.2" fill="none" stroke="#00b8a3" stroke-width="28.6" stroke-dasharray="204.91 292.72" stroke-dashoffset="0" transform="rotate(-90 110 110)" stroke-linecap="butt"/>
+<circle cx="110" cy="110" r="79.2" fill="none" stroke="#ffb800" stroke-width="28.6" stroke-dasharray="292.72 204.91" stroke-dashoffset="-204.91" transform="rotate(-90 110 110)" stroke-linecap="butt"/>
 
-<text x="110" y="112" font-size="30" font-weight="700" fill="#9ba5b4" text-anchor="middle">40</text>
+<text x="110" y="112" font-size="30" font-weight="700" fill="#9ba5b4" text-anchor="middle">51</text>
 <text x="110" y="130" font-size="10" font-weight="400" fill="#8b949e" text-anchor="middle">solved</text>
 </svg>
