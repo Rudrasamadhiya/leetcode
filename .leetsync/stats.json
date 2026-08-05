@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T19:28:44.000Z",
+  "generatedAt": "2026-08-05T19:33:03.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -1525,6 +1525,34 @@
       "memoryPercentile": 97.2792,
       "totalCorrect": 3999,
       "totalTestcases": 3999,
+      "revisit": false,
+      "takeaway": null,
+      "imported": false,
+      "hasNotes": false
+    },
+    "reverse-integer": {
+      "questionId": "7",
+      "title": "Reverse Integer",
+      "titleSlug": "reverse-integer",
+      "difficulty": "Medium",
+      "topics": [
+        "Math"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0007-reverse-integer",
+      "solutionPath": "Medium/0007-reverse-integer/solution.java",
+      "firstSolvedAt": "2026-08-05T19:33:03.000Z",
+      "lastSolvedAt": "2026-08-05T19:33:03.000Z",
+      "solveCount": 1,
+      "durationMs": 1009,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": 99.9755,
+      "memoryDisplay": "42.7 MB",
+      "memoryPercentile": 26.785999999999976,
+      "totalCorrect": 1046,
+      "totalTestcases": 1046,
       "revisit": false,
       "takeaway": null,
       "imported": false,

@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solved-54-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
+  <img src="https://img.shields.io/badge/Solved-55-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
   <img src="https://img.shields.io/badge/Easy-23-00b8a3?style=for-the-badge" alt="Easy"/>
-  <img src="https://img.shields.io/badge/Medium-31-ffb800?style=for-the-badge" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-32-ffb800?style=for-the-badge" alt="Medium"/>
   <img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge" alt="Hard"/>
 </p>
 
 <table align="center"><tr>
 <td align="center" width="20%">
-<b style="font-size:22px">54</b><br/>
+<b style="font-size:22px">55</b><br/>
 <sub>Solved</sub>
 </td>
 <td align="center" width="20%">
@@ -26,12 +26,12 @@
 <sub>Current streak</sub><br/><sub><i>best 1d</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">39s</b><br/>
-<sub>Median solve</sub><br/><sub><i>2 timed</i></sub>
+<b style="font-size:22px">11s</b><br/>
+<sub>Median solve</sub><br/><sub><i>3 timed</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">top 10%</b><br/>
-<sub>Avg runtime</sub><br/><sub><i>1 in top 10%</i></sub>
+<b style="font-size:22px">top 6%</b><br/>
+<sub>Avg runtime</sub><br/><sub><i>2 in top 10%</i></sub>
 </td>
 </tr></table>
 
@@ -50,8 +50,8 @@
 
 | Difficulty | Solved | Share | |
 |:--|--:|--:|:--|
-| Easy | **23** | 42.6% | `█████████░░░░░░░░░░░░░` |
-| Medium | **31** | 57.4% | `█████████████░░░░░░░░░` |
+| Easy | **23** | 41.8% | `█████████░░░░░░░░░░░░░` |
+| Medium | **32** | 58.2% | `█████████████░░░░░░░░░` |
 | Hard | **0** | 0.0% | `░░░░░░░░░░░░░░░░░░░░░░` |
 
 ## 🔥 Activity
@@ -94,10 +94,10 @@ Covered **29** of **71** tracked topics.
 | Difficulty | Median | Average | Range |
 |:--|--:|--:|:--|
 | Easy | 39s | 39s | 11s – 1m 08s |
-| Medium | — | — | — |
+| Medium | 1s | 1s | 1s – 1s |
 | Hard | — | — | — |
 
-Runtime percentile averages **90.5** across 2 submissions, with **1** landing in the top 10%.
+Runtime percentile averages **93.7** across 3 submissions, with **2** landing in the top 10%.
 
 <details>
 <summary><b>Fastest accepted solutions</b></summary>
@@ -105,6 +105,7 @@ Runtime percentile averages **90.5** across 2 submissions, with **1** landing in
 | Problem | Runtime | Beats |
 |:--|:--|--:|
 | [Roman to Integer](./Easy/0013-roman-to-integer) | 2 ms | 100.0% |
+| [Reverse Integer](./Medium/0007-reverse-integer) | 1 ms | 100.0% |
 
 </details>
 
@@ -206,13 +207,14 @@ Runtime percentile averages **90.5** across 2 submissions, with **1** landing in
 </details>
 
 <details open>
-<summary><b>Medium</b> · 31 problems</summary>
+<summary><b>Medium</b> · 32 problems</summary>
 
 | # | Problem | Topics | Language | Time |
 |:--|:--|:--|:--|--:|
 | `2` | [Add Two Numbers](./Medium/0002-add-two-numbers) | Linked List, Math, Recursion | java | — |
 | `3` | [Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window | java | — |
 | `6` | [Zigzag Conversion](./Medium/0006-zigzag-conversion) | String | java | — |
+| `7` | [Reverse Integer](./Medium/0007-reverse-integer) | Math | java | 1s |
 | `11` | [Container With Most Water](./Medium/0011-container-with-most-water) | Array, Two Pointers, Greedy | java | — |
 | `15` | [3Sum](./Medium/0015-3sum) | Array, Two Pointers, Sorting | java | — |
 | `33` | [Search in Rotated Sorted Array](./Medium/0033-search-in-rotated-sorted-array) | Array, Binary Search | java | — |
@@ -439,9 +441,10 @@ Runtime percentile averages **90.5** across 2 submissions, with **1** landing in
 
 - [300. Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) — Medium
 
-<b>Math</b> (7)
+<b>Math</b> (8)
 
 - [2. Add Two Numbers](./Medium/0002-add-two-numbers) — Medium
+- [7. Reverse Integer](./Medium/0007-reverse-integer) — Medium
 - [9. Palindrome Number](./Easy/0009-palindrome-number) — Easy
 - [13. Roman to Integer](./Easy/0013-roman-to-integer) — Easy
 - [48. Rotate Image](./Medium/0048-rotate-image) — Medium
