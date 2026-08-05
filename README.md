@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solved-52-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
-  <img src="https://img.shields.io/badge/Easy-21-00b8a3?style=for-the-badge" alt="Easy"/>
+  <img src="https://img.shields.io/badge/Solved-53-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
+  <img src="https://img.shields.io/badge/Easy-22-00b8a3?style=for-the-badge" alt="Easy"/>
   <img src="https://img.shields.io/badge/Medium-31-ffb800?style=for-the-badge" alt="Medium"/>
   <img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge" alt="Hard"/>
 </p>
 
 <table align="center"><tr>
 <td align="center" width="20%">
-<b style="font-size:22px">52</b><br/>
+<b style="font-size:22px">53</b><br/>
 <sub>Solved</sub>
 </td>
 <td align="center" width="20%">
@@ -26,11 +26,11 @@
 <sub>Current streak</sub><br/><sub><i>best 1d</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">—</b><br/>
-<sub>Median solve</sub>
+<b style="font-size:22px">1m 08s</b><br/>
+<sub>Median solve</sub><br/><sub><i>1 timed</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">—</b><br/>
+<b style="font-size:22px">top 19%</b><br/>
 <sub>Avg runtime</sub>
 </td>
 </tr></table>
@@ -50,8 +50,8 @@
 
 | Difficulty | Solved | Share | |
 |:--|--:|--:|:--|
-| Easy | **21** | 40.4% | `█████████░░░░░░░░░░░░░` |
-| Medium | **31** | 59.6% | `█████████████░░░░░░░░░` |
+| Easy | **22** | 41.5% | `█████████░░░░░░░░░░░░░` |
+| Medium | **31** | 58.5% | `█████████████░░░░░░░░░` |
 | Hard | **0** | 0.0% | `░░░░░░░░░░░░░░░░░░░░░░` |
 
 ## 🔥 Activity
@@ -93,9 +93,11 @@ Covered **29** of **71** tracked topics.
 
 | Difficulty | Median | Average | Range |
 |:--|--:|--:|:--|
-| Easy | — | — | — |
+| Easy | 1m 08s | 1m 08s | 1m 08s – 1m 08s |
 | Medium | — | — | — |
 | Hard | — | — | — |
+
+Runtime percentile averages **81.0** across 1 submissions.
 
 ## 📝 Notes pending
 
@@ -164,11 +166,12 @@ Covered **29** of **71** tracked topics.
 ## 🗂️ All solutions
 
 <details open>
-<summary><b>Easy</b> · 21 problems</summary>
+<summary><b>Easy</b> · 22 problems</summary>
 
 | # | Problem | Topics | Language | Time |
 |:--|:--|:--|:--|--:|
 | `1` | [Two Sum](./Easy/0001-two-sum) | Array, Hash Table | java | — |
+| `9` | [Palindrome Number](./Easy/0009-palindrome-number) | Math | java | 1m 08s |
 | `20` | [Valid Parentheses](./Easy/0020-valid-parentheses) | String, Stack, Bracket Sequences | java | — |
 | `21` | [Merge Two Sorted Lists](./Easy/0021-merge-two-sorted-lists) | Linked List, Recursion | java | — |
 | `28` | [Find the Index of the First Occurrence in a String](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) | Two Pointers, String, String Matching | java | — |
@@ -425,9 +428,10 @@ Covered **29** of **71** tracked topics.
 
 - [300. Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) — Medium
 
-<b>Math</b> (5)
+<b>Math</b> (6)
 
 - [2. Add Two Numbers](./Medium/0002-add-two-numbers) — Medium
+- [9. Palindrome Number](./Easy/0009-palindrome-number) — Easy
 - [48. Rotate Image](./Medium/0048-rotate-image) — Medium
 - [70. Climbing Stairs](./Easy/0070-climbing-stairs) — Easy
 - [268. Missing Number](./Easy/0268-missing-number) — Easy

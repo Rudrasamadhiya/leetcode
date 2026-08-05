@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T19:02:07.000Z",
+  "generatedAt": "2026-08-05T19:24:17.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -1470,6 +1470,34 @@
       "revisit": false,
       "takeaway": null,
       "imported": true,
+      "hasNotes": false
+    },
+    "palindrome-number": {
+      "questionId": "9",
+      "title": "Palindrome Number",
+      "titleSlug": "palindrome-number",
+      "difficulty": "Easy",
+      "topics": [
+        "Math"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0009-palindrome-number",
+      "solutionPath": "Easy/0009-palindrome-number/solution.java",
+      "firstSolvedAt": "2026-08-05T19:24:17.000Z",
+      "lastSolvedAt": "2026-08-05T19:24:17.000Z",
+      "solveCount": 1,
+      "durationMs": 67849,
+      "runtimeDisplay": "5 ms",
+      "runtimePercentile": 80.99119999999999,
+      "memoryDisplay": "46.1 MB",
+      "memoryPercentile": 33.843399999999974,
+      "totalCorrect": 11512,
+      "totalTestcases": 11512,
+      "revisit": false,
+      "takeaway": null,
+      "imported": false,
       "hasNotes": false
     }
   }

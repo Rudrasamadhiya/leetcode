@@ -44,15 +44,15 @@
 <rect x="168" y="242" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
 <rect x="168" y="242" width="124" height="13" rx="6.5" fill="#a371f7"/>
 <text x="798" y="252.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">6</text>
-<text x="158" y="272.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Bit Manipulation</text>
+<text x="158" y="272.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Math</text>
 <rect x="168" y="264" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
-<rect x="168" y="264" width="103.33" height="13" rx="6.5" fill="#a371f7"/>
-<text x="798" y="274.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
-<text x="158" y="294.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Linked List</text>
+<rect x="168" y="264" width="124" height="13" rx="6.5" fill="#a371f7"/>
+<text x="798" y="274.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">6</text>
+<text x="158" y="294.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Bit Manipulation</text>
 <rect x="168" y="286" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
 <rect x="168" y="286" width="103.33" height="13" rx="6.5" fill="#a371f7"/>
 <text x="798" y="296.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
-<text x="158" y="316.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Math</text>
+<text x="158" y="316.5" font-size="11" font-weight="400" fill="#9ba5b4" text-anchor="end">Linked List</text>
 <rect x="168" y="308" width="620" height="13" rx="6.5" fill="rgba(140,148,160,0.16)"/>
 <rect x="168" y="308" width="103.33" height="13" rx="6.5" fill="#a371f7"/>
 <text x="798" y="318.5" font-size="11" font-weight="400" fill="#8b949e" text-anchor="start">5</text>
