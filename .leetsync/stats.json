@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-06-19T12:57:14.000Z",
+  "generatedAt": "2026-06-19T13:11:03.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -564,6 +564,568 @@
       "runtimeDisplay": "3 ms",
       "runtimePercentile": null,
       "memoryDisplay": "46.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "binary-search": {
+      "questionId": "704",
+      "title": "Binary Search",
+      "titleSlug": "binary-search",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Easy/0704-binary-search",
+      "solutionPath": "Easy/0704-binary-search/solution.java",
+      "firstSolvedAt": "2026-06-19T12:57:42.000Z",
+      "lastSolvedAt": "2026-06-19T12:57:42.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "48.3 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "add-two-numbers": {
+      "questionId": "2",
+      "title": "Add Two Numbers",
+      "titleSlug": "add-two-numbers",
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0002-add-two-numbers",
+      "solutionPath": "Medium/0002-add-two-numbers/solution.java",
+      "firstSolvedAt": "2026-06-19T12:59:06.000Z",
+      "lastSolvedAt": "2026-06-19T12:59:06.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.6 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "longest-substring-without-repeating-characters": {
+      "questionId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "titleSlug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0003-longest-substring-without-repeating-characters",
+      "solutionPath": "Medium/0003-longest-substring-without-repeating-characters/solution.java",
+      "firstSolvedAt": "2026-06-19T12:59:46.000Z",
+      "lastSolvedAt": "2026-06-19T12:59:46.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "6 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "46.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "container-with-most-water": {
+      "questionId": "11",
+      "title": "Container With Most Water",
+      "titleSlug": "container-with-most-water",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0011-container-with-most-water",
+      "solutionPath": "Medium/0011-container-with-most-water/solution.java",
+      "firstSolvedAt": "2026-06-19T13:00:16.000Z",
+      "lastSolvedAt": "2026-06-19T13:00:16.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "5 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "77.5 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "3sum": {
+      "questionId": "15",
+      "title": "3Sum",
+      "titleSlug": "3sum",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0015-3sum",
+      "solutionPath": "Medium/0015-3sum/solution.java",
+      "firstSolvedAt": "2026-06-19T13:01:06.000Z",
+      "lastSolvedAt": "2026-06-19T13:01:06.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "34 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "59 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "search-in-rotated-sorted-array": {
+      "questionId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "titleSlug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0033-search-in-rotated-sorted-array",
+      "solutionPath": "Medium/0033-search-in-rotated-sorted-array/solution.java",
+      "firstSolvedAt": "2026-06-19T13:01:35.000Z",
+      "lastSolvedAt": "2026-06-19T13:01:35.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "43.1 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "combination-sum": {
+      "questionId": "39",
+      "title": "Combination Sum",
+      "titleSlug": "combination-sum",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0039-combination-sum",
+      "solutionPath": "Medium/0039-combination-sum/solution.java",
+      "firstSolvedAt": "2026-06-19T13:02:10.000Z",
+      "lastSolvedAt": "2026-06-19T13:02:10.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "45.5 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "permutations": {
+      "questionId": "46",
+      "title": "Permutations",
+      "titleSlug": "permutations",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0046-permutations",
+      "solutionPath": "Medium/0046-permutations/solution.java",
+      "firstSolvedAt": "2026-06-19T13:02:47.000Z",
+      "lastSolvedAt": "2026-06-19T13:02:47.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "45.5 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "rotate-image": {
+      "questionId": "48",
+      "title": "Rotate Image",
+      "titleSlug": "rotate-image",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Matrix"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0048-rotate-image",
+      "solutionPath": "Medium/0048-rotate-image/solution.java",
+      "firstSolvedAt": "2026-06-19T13:03:58.000Z",
+      "lastSolvedAt": "2026-06-19T13:03:58.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "43.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "group-anagrams": {
+      "questionId": "49",
+      "title": "Group Anagrams",
+      "titleSlug": "group-anagrams",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0049-group-anagrams",
+      "solutionPath": "Medium/0049-group-anagrams/solution.java",
+      "firstSolvedAt": "2026-06-19T13:04:54.000Z",
+      "lastSolvedAt": "2026-06-19T13:04:54.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "8 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "49 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "merge-intervals": {
+      "questionId": "56",
+      "title": "Merge Intervals",
+      "titleSlug": "merge-intervals",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0056-merge-intervals",
+      "solutionPath": "Medium/0056-merge-intervals/solution.java",
+      "firstSolvedAt": "2026-06-19T13:06:00.000Z",
+      "lastSolvedAt": "2026-06-19T13:06:00.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "8 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "49.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "set-matrix-zeroes": {
+      "questionId": "73",
+      "title": "Set Matrix Zeroes",
+      "titleSlug": "set-matrix-zeroes",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0073-set-matrix-zeroes",
+      "solutionPath": "Medium/0073-set-matrix-zeroes/solution.java",
+      "firstSolvedAt": "2026-06-19T13:06:29.000Z",
+      "lastSolvedAt": "2026-06-19T13:06:29.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "47.6 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "subsets": {
+      "questionId": "78",
+      "title": "Subsets",
+      "titleSlug": "subsets",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0078-subsets",
+      "solutionPath": "Medium/0078-subsets/solution.java",
+      "firstSolvedAt": "2026-06-19T13:06:58.000Z",
+      "lastSolvedAt": "2026-06-19T13:06:58.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "44.1 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "validate-binary-search-tree": {
+      "questionId": "98",
+      "title": "Validate Binary Search Tree",
+      "titleSlug": "validate-binary-search-tree",
+      "difficulty": "Medium",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Search Tree",
+        "Binary Tree"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0098-validate-binary-search-tree",
+      "solutionPath": "Medium/0098-validate-binary-search-tree/solution.java",
+      "firstSolvedAt": "2026-06-19T13:07:34.000Z",
+      "lastSolvedAt": "2026-06-19T13:07:34.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "45.2 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "binary-tree-level-order-traversal": {
+      "questionId": "102",
+      "title": "Binary Tree Level Order Traversal",
+      "titleSlug": "binary-tree-level-order-traversal",
+      "difficulty": "Medium",
+      "topics": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0102-binary-tree-level-order-traversal",
+      "solutionPath": "Medium/0102-binary-tree-level-order-traversal/solution.java",
+      "firstSolvedAt": "2026-06-19T13:08:01.000Z",
+      "lastSolvedAt": "2026-06-19T13:08:01.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "1 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "47 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "construct-binary-tree-from-preorder-and-inorder-traversal": {
+      "questionId": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Tree",
+        "Binary Tree"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "solutionPath": "Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/solution.java",
+      "firstSolvedAt": "2026-06-19T13:09:06.000Z",
+      "lastSolvedAt": "2026-06-19T13:09:14.000Z",
+      "solveCount": 2,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "45.6 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "maximum-product-subarray": {
+      "questionId": "152",
+      "title": "Maximum Product Subarray",
+      "titleSlug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0152-maximum-product-subarray",
+      "solutionPath": "Medium/0152-maximum-product-subarray/solution.java",
+      "firstSolvedAt": "2026-06-19T13:09:40.000Z",
+      "lastSolvedAt": "2026-06-19T13:09:40.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "2 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "47.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "questionId": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "titleSlug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0153-find-minimum-in-rotated-sorted-array",
+      "solutionPath": "Medium/0153-find-minimum-in-rotated-sorted-array/solution.java",
+      "firstSolvedAt": "2026-06-19T13:10:08.000Z",
+      "lastSolvedAt": "2026-06-19T13:10:08.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "0 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "43.4 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "number-of-islands": {
+      "questionId": "200",
+      "title": "Number of Islands",
+      "titleSlug": "number-of-islands",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0200-number-of-islands",
+      "solutionPath": "Medium/0200-number-of-islands/solution.java",
+      "firstSolvedAt": "2026-06-19T13:10:39.000Z",
+      "lastSolvedAt": "2026-06-19T13:10:39.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "3 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "52.7 MB",
+      "memoryPercentile": null,
+      "revisit": false,
+      "takeaway": null,
+      "imported": true,
+      "hasNotes": false
+    },
+    "course-schedule": {
+      "questionId": "207",
+      "title": "Course Schedule",
+      "titleSlug": "course-schedule",
+      "difficulty": "Medium",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Directed Acyclic Graph"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0207-course-schedule",
+      "solutionPath": "Medium/0207-course-schedule/solution.java",
+      "firstSolvedAt": "2026-06-19T13:11:03.000Z",
+      "lastSolvedAt": "2026-06-19T13:11:03.000Z",
+      "solveCount": 1,
+      "durationMs": null,
+      "runtimeDisplay": "4 ms",
+      "runtimePercentile": null,
+      "memoryDisplay": "47.1 MB",
       "memoryPercentile": null,
       "revisit": false,
       "takeaway": null,
