@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T19:28:44.000Z",
+  "generatedAt": "2026-08-05T19:41:00.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -1553,6 +1553,37 @@
       "memoryPercentile": 46.30649999999999,
       "totalCorrect": 1046,
       "totalTestcases": 1046,
+      "revisit": false,
+      "takeaway": null,
+      "imported": false,
+      "hasNotes": false
+    },
+    "longest-palindromic-substring": {
+      "questionId": "5",
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "difficulty": "Medium",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "languages": [
+        "java"
+      ],
+      "dir": "Medium/0005-longest-palindromic-substring",
+      "solutionPath": "Medium/0005-longest-palindromic-substring/solution.java",
+      "firstSolvedAt": "2026-08-05T19:41:00.000Z",
+      "lastSolvedAt": "2026-08-05T19:41:00.000Z",
+      "solveCount": 1,
+      "durationMs": 1177,
+      "runtimeDisplay": "14 ms",
+      "runtimePercentile": 89.76890000000003,
+      "memoryDisplay": "43.4 MB",
+      "memoryPercentile": 89.59620000000002,
+      "totalCorrect": 144,
+      "totalTestcases": 144,
       "revisit": false,
       "takeaway": null,
       "imported": false,

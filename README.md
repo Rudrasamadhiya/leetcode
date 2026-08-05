@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Solved-55-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
+  <img src="https://img.shields.io/badge/Solved-56-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total solved"/>
   <img src="https://img.shields.io/badge/Easy-23-00b8a3?style=for-the-badge" alt="Easy"/>
-  <img src="https://img.shields.io/badge/Medium-32-ffb800?style=for-the-badge" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-33-ffb800?style=for-the-badge" alt="Medium"/>
   <img src="https://img.shields.io/badge/Hard-0-ff375f?style=for-the-badge" alt="Hard"/>
 </p>
 
 <table align="center"><tr>
 <td align="center" width="20%">
-<b style="font-size:22px">55</b><br/>
+<b style="font-size:22px">56</b><br/>
 <sub>Solved</sub>
 </td>
 <td align="center" width="20%">
@@ -26,11 +26,11 @@
 <sub>Current streak</sub><br/><sub><i>best 1d</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">30s</b><br/>
-<sub>Median solve</sub><br/><sub><i>3 timed</i></sub>
+<b style="font-size:22px">24s</b><br/>
+<sub>Median solve</sub><br/><sub><i>4 timed</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">top 6%</b><br/>
+<b style="font-size:22px">top 7%</b><br/>
 <sub>Avg runtime</sub><br/><sub><i>2 in top 10%</i></sub>
 </td>
 </tr></table>
@@ -50,8 +50,8 @@
 
 | Difficulty | Solved | Share | |
 |:--|--:|--:|:--|
-| Easy | **23** | 41.8% | `█████████░░░░░░░░░░░░░` |
-| Medium | **32** | 58.2% | `█████████████░░░░░░░░░` |
+| Easy | **23** | 41.1% | `█████████░░░░░░░░░░░░░` |
+| Medium | **33** | 58.9% | `█████████████░░░░░░░░░` |
 | Hard | **0** | 0.0% | `░░░░░░░░░░░░░░░░░░░░░░` |
 
 ## 🔥 Activity
@@ -94,10 +94,10 @@ Covered **29** of **71** tracked topics.
 | Difficulty | Median | Average | Range |
 |:--|--:|--:|:--|
 | Easy | 43s | 43s | 18s – 1m 08s |
-| Medium | 30s | 30s | 30s – 30s |
+| Medium | 16s | 16s | 1s – 30s |
 | Hard | — | — | — |
 
-Runtime percentile averages **93.7** across 3 submissions, with **2** landing in the top 10%.
+Runtime percentile averages **92.7** across 4 submissions, with **2** landing in the top 10%.
 
 <details>
 <summary><b>Fastest accepted solutions</b></summary>
@@ -207,12 +207,13 @@ Runtime percentile averages **93.7** across 3 submissions, with **2** landing in
 </details>
 
 <details open>
-<summary><b>Medium</b> · 32 problems</summary>
+<summary><b>Medium</b> · 33 problems</summary>
 
 | # | Problem | Topics | Language | Time |
 |:--|:--|:--|:--|--:|
 | `2` | [Add Two Numbers](./Medium/0002-add-two-numbers) | Linked List, Math, Recursion | java | — |
 | `3` | [Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window | java | — |
+| `5` | [Longest Palindromic Substring](./Medium/0005-longest-palindromic-substring) | Two Pointers, String, Dynamic Programming | java | 1s |
 | `6` | [Zigzag Conversion](./Medium/0006-zigzag-conversion) | String | java | — |
 | `7` | [Reverse Integer](./Medium/0007-reverse-integer) | Math | java | 30s |
 | `11` | [Container With Most Water](./Medium/0011-container-with-most-water) | Array, Two Pointers, Greedy | java | — |
@@ -375,8 +376,9 @@ Runtime percentile averages **93.7** across 3 submissions, with **2** landing in
 
 - [543. Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) — Easy
 
-<b>Dynamic Programming</b> (9)
+<b>Dynamic Programming</b> (10)
 
+- [5. Longest Palindromic Substring](./Medium/0005-longest-palindromic-substring) — Medium
 - [53. Maximum Subarray](./Medium/0053-maximum-subarray) — Medium
 - [70. Climbing Stairs](./Easy/0070-climbing-stairs) — Easy
 - [121. Best Time to Buy and Sell Stock](./Easy/0121-best-time-to-buy-and-sell-stock) — Easy
@@ -440,6 +442,10 @@ Runtime percentile averages **93.7** across 3 submissions, with **2** landing in
 <b>Longest Increasing Subsequence</b> (1)
 
 - [300. Longest Increasing Subsequence](./Medium/0300-longest-increasing-subsequence) — Medium
+
+<b>Manacher</b> (1)
+
+- [5. Longest Palindromic Substring](./Medium/0005-longest-palindromic-substring) — Medium
 
 <b>Math</b> (8)
 
@@ -505,9 +511,10 @@ Runtime percentile averages **93.7** across 3 submissions, with **2** landing in
 - [20. Valid Parentheses](./Easy/0020-valid-parentheses) — Easy
 - [739. Daily Temperatures](./Medium/0739-daily-temperatures) — Medium
 
-<b>String</b> (10)
+<b>String</b> (11)
 
 - [3. Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) — Medium
+- [5. Longest Palindromic Substring](./Medium/0005-longest-palindromic-substring) — Medium
 - [6. Zigzag Conversion](./Medium/0006-zigzag-conversion) — Medium
 - [13. Roman to Integer](./Easy/0013-roman-to-integer) — Easy
 - [20. Valid Parentheses](./Easy/0020-valid-parentheses) — Easy
@@ -537,8 +544,9 @@ Runtime percentile averages **93.7** across 3 submissions, with **2** landing in
 - [543. Diameter of Binary Tree](./Easy/0543-diameter-of-binary-tree) — Easy
 - [572. Subtree of Another Tree](./Easy/0572-subtree-of-another-tree) — Easy
 
-<b>Two Pointers</b> (8)
+<b>Two Pointers</b> (9)
 
+- [5. Longest Palindromic Substring](./Medium/0005-longest-palindromic-substring) — Medium
 - [11. Container With Most Water](./Medium/0011-container-with-most-water) — Medium
 - [15. 3Sum](./Medium/0015-3sum) — Medium
 - [28. Find the Index of the First Occurrence in a String](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string) — Easy
