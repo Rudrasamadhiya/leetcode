@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-05T19:41:00.000Z",
+  "generatedAt": "2026-06-19T12:59:07.000Z",
   "problems": {
     "two-sum": {
       "questionId": "1",
@@ -613,13 +613,15 @@
       "dir": "Medium/0002-add-two-numbers",
       "solutionPath": "Medium/0002-add-two-numbers/solution.java",
       "firstSolvedAt": "2026-06-19T12:59:06.000Z",
-      "lastSolvedAt": "2026-06-19T12:59:06.000Z",
-      "solveCount": 1,
-      "durationMs": null,
+      "lastSolvedAt": "2026-06-19T12:59:07.000Z",
+      "solveCount": 2,
+      "durationMs": 1700,
       "runtimeDisplay": "1 ms",
-      "runtimePercentile": null,
+      "runtimePercentile": 100,
       "memoryDisplay": "46.6 MB",
-      "memoryPercentile": null,
+      "memoryPercentile": 38.49429999999998,
+      "totalCorrect": 1569,
+      "totalTestcases": 1569,
       "revisit": false,
       "takeaway": null,
       "imported": true,

@@ -26,12 +26,12 @@
 <sub>Current streak</sub><br/><sub><i>best 1d</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">24s</b><br/>
-<sub>Median solve</sub><br/><sub><i>4 timed</i></sub>
+<b style="font-size:22px">18s</b><br/>
+<sub>Median solve</sub><br/><sub><i>5 timed</i></sub>
 </td>
 <td align="center" width="20%">
-<b style="font-size:22px">top 7%</b><br/>
-<sub>Avg runtime</sub><br/><sub><i>2 in top 10%</i></sub>
+<b style="font-size:22px">top 6%</b><br/>
+<sub>Avg runtime</sub><br/><sub><i>3 in top 10%</i></sub>
 </td>
 </tr></table>
 
@@ -94,16 +94,17 @@ Covered **29** of **71** tracked topics.
 | Difficulty | Median | Average | Range |
 |:--|--:|--:|:--|
 | Easy | 43s | 43s | 18s – 1m 08s |
-| Medium | 16s | 16s | 1s – 30s |
+| Medium | 2s | 11s | 1s – 30s |
 | Hard | — | — | — |
 
-Runtime percentile averages **92.7** across 4 submissions, with **2** landing in the top 10%.
+Runtime percentile averages **94.1** across 5 submissions, with **3** landing in the top 10%.
 
 <details>
 <summary><b>Fastest accepted solutions</b></summary>
 
 | Problem | Runtime | Beats |
 |:--|:--|--:|
+| [Add Two Numbers](./Medium/0002-add-two-numbers) | 1 ms | 100.0% |
 | [Roman to Integer](./Easy/0013-roman-to-integer) | 2 ms | 100.0% |
 | [Reverse Integer](./Medium/0007-reverse-integer) | 1 ms | 100.0% |
 
@@ -211,7 +212,7 @@ Runtime percentile averages **92.7** across 4 submissions, with **2** landing in
 
 | # | Problem | Topics | Language | Time |
 |:--|:--|:--|:--|--:|
-| `2` | [Add Two Numbers](./Medium/0002-add-two-numbers) | Linked List, Math, Recursion | java | — |
+| `2` | [Add Two Numbers](./Medium/0002-add-two-numbers) | Linked List, Math, Recursion | java | 2s |
 | `3` | [Longest Substring Without Repeating Characters](./Medium/0003-longest-substring-without-repeating-characters) | Hash Table, String, Sliding Window | java | — |
 | `5` | [Longest Palindromic Substring](./Medium/0005-longest-palindromic-substring) | Two Pointers, String, Dynamic Programming | java | 1s |
 | `6` | [Zigzag Conversion](./Medium/0006-zigzag-conversion) | String | java | — |

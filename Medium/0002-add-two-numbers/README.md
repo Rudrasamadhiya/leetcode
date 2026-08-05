@@ -1,6 +1,6 @@
 # 2. Add Two Numbers
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffb800?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square) ![Notes](https://img.shields.io/badge/Notes-Pending-6b7280?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-ffb800?style=flat-square) ![Language](https://img.shields.io/badge/Language-Java-4c8dff?style=flat-square) ![Solved in](https://img.shields.io/badge/Solved%20in-2s-a371f7?style=flat-square)
 
 **[Open on LeetCode →](https://leetcode.com/problems/add-two-numbers/)**
 
@@ -10,8 +10,10 @@
 | **Topics** | `Linked List` · `Math` · `Recursion` |
 | **Language** | Java |
 | **Solved** | June 19, 2026 |
-| **Runtime** | 1 ms |
-| **Memory** | 46.6 MB |
+| **Time to solve** | 2s |
+| **Test cases** | 1569 / 1569 passed |
+| **Runtime** | 1 ms — beats **100.0%** |
+| **Memory** | 46.6 MB — beats **38.5%** |
 
 ## Solution
 
